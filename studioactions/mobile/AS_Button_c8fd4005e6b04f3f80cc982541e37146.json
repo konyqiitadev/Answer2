@@ -1,0 +1,29 @@
+{
+    "AS_Button_c8fd4005e6b04f3f80cc982541e37146": {
+        "id": "AS_Button_c8fd4005e6b04f3f80cc982541e37146",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ce1386584ad84c458dee7b5fcd05249b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__f84d95b8cf9b40e4a8480868890eedf3",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmCouponDetail",
+            "formKUID": "b0da2d2b084e4ecfbb4d6875c0894373",
+            "projectName": "qiita93",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

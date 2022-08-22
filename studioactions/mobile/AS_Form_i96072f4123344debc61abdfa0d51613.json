@@ -1,0 +1,18 @@
+{
+    "AS_Form_i96072f4123344debc61abdfa0d51613": {
+        "id": "AS_Form_i96072f4123344debc61abdfa0d51613",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCouponDetail",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b0da2d2b084e4ecfbb4d6875c0894373"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

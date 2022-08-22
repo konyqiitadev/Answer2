@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "59dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa5b86eadc544b56b614765ad5b6d9d9",
+    "_text_": "ログイン",
+    "_top_": {
+        "type": "string",
+        "value": "89dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa389fda7bab4d728bc8fa920a852588",
+    "id": "btnLogin",
+    "ide_onClick": "AS_Button_c8fd4005e6b04f3f80cc982541e37146",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j013290e9f3d4a0c885018786aa4493f",
+    "name": "kony.ui.Button",
+    "parent": "flxContainer",
+    "pf": "frmLogin",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

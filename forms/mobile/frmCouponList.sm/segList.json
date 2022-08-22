@@ -1,0 +1,415 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        },
+        {
+            "imgCouponImage": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "icon.png"
+            },
+            "imgRamen": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "spicy_red_soup_beef_noodle_bowl_wooden_table.png"
+            },
+            "imgRight": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "chevron_right_24px.png"
+            },
+            "lblCouponDeadline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2021年3月31日 23:59まで"
+            },
+            "lblCouponDetail": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "【初回限定】新規登録クーポン"
+            },
+            "lblCouponRate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10% OFF"
+            },
+            "lblStoreName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "おいしいラーメン店 東京駅前店"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "enabledictionary": false,
+    "enablereordering": false,
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segList",
+    "ide_onRowClick": "AS_Segment_c093b11729a54a618fa08618f99443cc",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "enableDictionary": false,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g8de38464b594efbab5cdc87a34e8f36",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmCouponList",
+    "pf": "frmCouponList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "cb4bc22bc07c482ba123462493dc607d",
+    "rowcounter": 9,
+    "rowfocusskin": "s909e2cde6734f4ebb7c918befd8efd1",
+    "rowskin": "sea00f8bf5d14ad49dd904b35d695928",
+    "rowtemplate": "Flex0he23eb5c61c349",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sf77317f72364b60bb69d5cf426a86c5",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d8d8d800",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxCouponName": "flxCouponName",
+        "flxDetail": "flxDetail",
+        "flxImage": "flxImage",
+        "flxLeft": "flxLeft",
+        "flxList": "flxList",
+        "flxRight": "flxRight",
+        "imgCouponImage": "imgCouponImage",
+        "imgRamen": "imgRamen",
+        "imgRight": "imgRight",
+        "lblCouponDeadline": "lblCouponDeadline",
+        "lblCouponDetail": "lblCouponDetail",
+        "lblCouponRate": "lblCouponRate",
+        "lblStoreName": "lblStoreName"
+    },
+    "zindex": 1
+}

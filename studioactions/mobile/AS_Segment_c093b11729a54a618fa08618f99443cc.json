@@ -1,0 +1,34 @@
+{
+    "AS_Segment_c093b11729a54a618fa08618f99443cc": {
+        "id": "AS_Segment_c093b11729a54a618fa08618f99443cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmCouponList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b0ee4ec33fce4fda88e381d0e09326e4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__b0b0370ea2b0465c87bc9b0fe8dd705a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickList",
+            "display": "onClickList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

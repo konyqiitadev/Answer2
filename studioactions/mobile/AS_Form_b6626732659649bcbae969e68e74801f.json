@@ -1,0 +1,28 @@
+{
+    "AS_Form_b6626732659649bcbae969e68e74801f": {
+        "id": "AS_Form_b6626732659649bcbae969e68e74801f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmCouponList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b0ee4ec33fce4fda88e381d0e09326e4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__e1ad0e152aa2483392378e7cdd9c51d4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "preShow",
+            "display": "preShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}
